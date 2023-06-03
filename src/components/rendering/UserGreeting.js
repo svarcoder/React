@@ -1,3 +1,6 @@
+/* The UserGreeting class renders a welcome message based on whether the user is logged in or not,
+using different approaches such as if-else, element variables, ternary operator, and short-circuit
+operator. */
 import React, { Component } from "react";
 
 class UserGreeting extends Component {

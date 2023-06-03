@@ -1,3 +1,5 @@
+/* The ParentComp class is a React component that renders three child components, RegComp, PureComp,
+and MemoComp, and updates the state every two seconds. */
 import React, { Component } from "react";
 import RegComp from "./RegComp";
 import MemoComp from "./MemoComp";

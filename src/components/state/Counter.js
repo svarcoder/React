@@ -1,3 +1,5 @@
+/* The Counter class is a React component that displays a count and allows the user to increment it by
+clicking a button. */
 import React, { Component } from "react";
 
 class Counter extends Component {
@@ -12,13 +14,6 @@ class Counter extends Component {
     this.setState((prevState) => ({
       count: prevState.count + 1,
     }));
-    // this.setState({
-    //   count: this.state.count + 1
-    // }, () => {
-    //   console.log('Callback', this.state.count)
-    // })
-    // this.state.count = this.state.count + 1
-    // console.log(this.state.count)
   }
 
   incrementFive() {

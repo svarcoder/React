@@ -1,3 +1,5 @@
+/* The ParentComponent class renders a ChildComponent and passes a function as a prop to handle
+greeting the parent. */
 import React, { Component } from "react";
 import ChildComponent from "./ChildComponent";
 

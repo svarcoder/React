@@ -1,3 +1,5 @@
+/* The RefsDemo class is a React component that demonstrates the use of refs to access and manipulate
+DOM elements. */
 import React, { Component } from "react";
 
 export class RefsDemo extends Component {
@@ -11,8 +13,6 @@ export class RefsDemo extends Component {
   }
 
   componentDidMount() {
-    // this.inputRef.current.focus()
-    console.log(this.cbRef);
     if (this.cbRef) {
       this.cbRef.focus();
     }

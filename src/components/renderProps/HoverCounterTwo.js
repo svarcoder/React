@@ -1,3 +1,5 @@
+/* The HoverCounterTwo class is a React component that displays the number of times it has been hovered
+over. */
 import React, { Component } from "react";
 
 class HoverCounterTwo extends Component {

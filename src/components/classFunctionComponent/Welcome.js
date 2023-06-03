@@ -1,3 +1,5 @@
+/* The above class is a React component that renders a welcome message with a name and hero name passed
+as props. */
 import React, { Component } from "react";
 
 class Welcome extends Component {

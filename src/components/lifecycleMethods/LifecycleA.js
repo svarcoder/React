@@ -1,3 +1,4 @@
+/* This is a React component class that demonstrates the lifecycle methods of a component. */
 import React, { Component } from "react";
 import LifecycleB from "./LifecycleB";
 

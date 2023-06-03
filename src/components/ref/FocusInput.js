@@ -1,3 +1,5 @@
+/* The FocusInput class is a React component that renders an Input component and a button that, when
+clicked, calls a method to focus on the Input component. */
 import React, { Component } from "react";
 import Input from "./Input";
 

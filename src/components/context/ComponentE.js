@@ -1,3 +1,4 @@
+/* The ComponentE class renders the ComponentF component. */
 import React, { Component } from "react";
 import ComponentF from "./ComponentF";
 

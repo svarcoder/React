@@ -1,3 +1,4 @@
+/* This is a regular React component that renders a div with a message and a name prop. */
 import React, { Component } from "react";
 
 class RegComp extends Component {

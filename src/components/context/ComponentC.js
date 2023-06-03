@@ -1,3 +1,4 @@
+/* The ComponentC class provides a UserProvider context to its child component ComponentE. */
 import React, { Component } from "react";
 import ComponentE from "./ComponentE";
 import { UserProvider } from "./userContext";

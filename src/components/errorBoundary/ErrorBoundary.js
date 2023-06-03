@@ -1,3 +1,5 @@
+/* This is a React component that acts as an error boundary to catch and display errors in the
+application. */
 import React, { Component } from "react";
 
 export class ErrorBoundary extends Component {

@@ -1,3 +1,5 @@
+/* The FRParentInput class is a React component that renders an FRInput component and a button that,
+when clicked, focuses on the input. */
 import React, { Component } from "react";
 import FRInput from "./FRInput";
 

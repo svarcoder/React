@@ -1,5 +1,7 @@
+/* The PostList class is a React component that retrieves and displays a list of posts from a JSON API. */
 import React, { Component } from "react";
 import axios from "axios";
+
 class PostList extends Component {
   constructor(props) {
     super(props);
@@ -25,6 +27,7 @@ class PostList extends Component {
 
   render() {
     const { posts, errorMsg } = this.state;
+
     return (
       <div>
         List of posts

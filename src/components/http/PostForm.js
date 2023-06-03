@@ -1,5 +1,8 @@
+/* The above class is a React component that allows users to submit a post request to a specified API
+endpoint using Axios. */
 import React, { Component } from "react";
 import axios from "axios";
+
 class PostForm extends Component {
   constructor(props) {
     super(props);

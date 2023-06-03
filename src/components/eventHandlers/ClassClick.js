@@ -1,3 +1,4 @@
+/* This is a React class component that logs a message to the console when a button is clicked. */
 import React, { Component } from "react";
 
 class ClassClick extends Component {

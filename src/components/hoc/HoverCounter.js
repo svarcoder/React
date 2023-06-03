@@ -1,3 +1,5 @@
+/* This is a React component called HoverCounter that uses a higher-order component called withCounter
+to increment a count when the component is hovered over. */
 import React, { Component } from "react";
 import withCounter from "./withCounter";
 

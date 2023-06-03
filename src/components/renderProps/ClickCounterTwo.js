@@ -1,3 +1,4 @@
+/* This is a React component that displays a button with a count of how many times it has been clicked. */
 import React, { Component } from "react";
 
 class ClickCounterTwo extends Component {

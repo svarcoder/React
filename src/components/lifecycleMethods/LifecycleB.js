@@ -1,3 +1,4 @@
+/* The class LifecycleB is a React component that logs various lifecycle methods to the console. */
 import React, { Component } from "react";
 
 class LifecycleB extends Component {

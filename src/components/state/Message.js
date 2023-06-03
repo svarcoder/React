@@ -1,3 +1,5 @@
+/* The Message class is a React component that displays a message and allows the user to change it by
+clicking a button. */
 import React, { Component } from "react";
 
 class Message extends Component {

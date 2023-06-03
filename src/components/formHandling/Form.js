@@ -1,3 +1,5 @@
+/* The above class is a React component that renders a form with input fields for username, comments,
+and a dropdown menu for selecting a topic, and allows the user to submit the form. */
 import React, { Component } from "react";
 
 class Form extends Component {

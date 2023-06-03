@@ -1,3 +1,5 @@
+/* The EventBind class is a React component that demonstrates different ways of binding event handlers
+in React. */
 import React, { Component } from "react";
 
 class EventBind extends Component {
