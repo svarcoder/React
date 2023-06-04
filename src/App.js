@@ -57,6 +57,10 @@ function App() {
           ></HoverCounterTwo>
         )}
       /> */}
+      {/* <ProfilerExe /> */}
+      {/* <SuspenseExample /> */}
+      {/* <FlushSyncExe /> */}
+      {/* <TransitionExe /> */}
     </div>
   );
 }
